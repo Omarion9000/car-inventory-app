@@ -22,7 +22,7 @@ A simple Car Inventory Manager built with MongoDB, Express, and Node.js (MEN sta
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/car-inventory-app.git
+   git clone https://github.com/Omarion9000/car-inventory-app.git
 Navigate into the project directory:
 
 bash
